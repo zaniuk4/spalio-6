@@ -1,0 +1,1 @@
+console.log("Namo numeris yra: 589");
